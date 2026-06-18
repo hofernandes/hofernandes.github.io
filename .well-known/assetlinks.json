@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.higorfernandes.mestredasfigurinhas",
+      "sha256_cert_fingerprints": [
+        "09:F2:63:2E:79:8A:B9:F1:9B:83:F2:F9:1F:6C:99:8A:E5:B9:5B:6C:D5:5E:02:25:01:DA:3E:D8:AC:4F:22:08"
+      ]
+    }
+  }
+]
