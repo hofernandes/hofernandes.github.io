@@ -11,5 +11,18 @@
         "09:F2:63:2E:79:8A:B9:F1:9B:83:F2:F9:1F:6C:99:8A:E5:B9:5B:6C:D5:5E:02:25:01:DA:3E:D8:AC:4F:22:08"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.higorfernandes.albumtoystore",
+      "sha256_cert_fingerprints": [
+        "05:A1:D2:7C:00:DF:99:C1:50:81:0F:A3:D2:28:35:4B:90:1B:04:A8:EB:33:15:54:C7:E7:A3:09:01:02:84:2F"
+      ]
+    }
   }
 ]
